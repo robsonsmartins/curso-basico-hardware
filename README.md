@@ -1,5 +1,5 @@
-# Curso Básico de Hardware
-<p>Material de Curso Básico de Hardware.</p>
-<p>Pesquisado por <a target="_blank" href="http://www.robsonmartins.com">Robson Martins</a>.</p>
-<p>Este curso de Informática tem por objetivo auxiliar aos interessados no aprendizado de noções básicas de Hardware e de Sistemas Operacionais. O curso é dividido em apostilas, possibilitando uma metodologia de estudo simplificada. Caso não compreenda algum termo citado em uma determinada apostila, anote-o, pois certamente ele será abordado em uma apostila subsequente.</p>
-<p>URL do Curso: <a target="_blank" href="http://www.robsonmartins.com/content/info/hardware/cursohdw.php">Curso Básico de Hardware - Robson Martins</a></p>
+# Basic Hardware Course
+<p>Basic Hardware Course Material (in Portuguese).</p>
+<p>Searched by <a target="_blank" href="http://www.robsonmartins.com">Robson Martins</a>.</p>
+<p>This Hardware Course aims to help those interested in learning the basics of Hardware and Operating Systems. The course is divided into handouts, enabling a simplified study methodology. If you do not understand any term mentioned in a particular handout, write it down, as it will certainly be covered in a subsequent handout.</p>
+<p>Course URL: <a target="_blank" href="http://www.robsonmartins.com/content/info/hardware/cursohdw.php">Basic Hardware Course - Robson Martins</a></p>
